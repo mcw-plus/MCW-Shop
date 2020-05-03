@@ -1,0 +1,14 @@
+main: com.league.lugas.shop.Main
+name: MCW-Shop
+version: 1.0.0
+api-version: 1.13
+
+author: LeagueLugas
+description: MCW 서버 전용 상점 플러그인
+
+depend: [Vault]
+softdepend: [TriggerReactor]
+
+commands:
+  shop:
+     desciption: MCW 서버 전용 상점 플러그인 명령어
